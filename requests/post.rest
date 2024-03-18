@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlBla3NpIFRlc3RhYSIsImlkIjoiNjVmODZhNTczNjMwNjM3MTgyZmQ0YzU1IiwiaWF0IjoxNzEwNzgwNDE2fQ.t3H2Z4RU-H8r4VjJI2j6Vjlr3yD2T2qgrece1I9tJ-8
+
+  {
+      "title": "Tokenin testaus kertaa 81",
+      "author": "TJokuafgagf",
+      "url": "maoadkmsf.fi",
+      "likes": 54
+  }  
